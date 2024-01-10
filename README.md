@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Hi my name is Juan Francisco, (😄 Pronouns:he-him )  i’m currently working on [Zentagroup](https://zentagroup.com/) as a Chief Technology Officer (CTO).
+Hi my name is <a href="https://juanfrancisco.dev/">Juan Francisco</a>, (😄 Pronouns:he-him )  i’m currently working on [Zentagroup](https://zentagroup.com/) as a Chief Technology Officer (CTO).
 I'm passionate about software development and cloud (native) computing. Right now, 🌱 I'm trying to improve at data science, machine learning and data analitycs. 
 
 I love teaching, I taught at the  [Universidad Mayor](https://www.umayor.cl/um/)  and [Universidad de Chile](https://ingenieria.uchile.cl/) in the Faculty of Physical Sciences and Mathematics, in addition to doing some bootcamps on the development and design of modern web applications.
